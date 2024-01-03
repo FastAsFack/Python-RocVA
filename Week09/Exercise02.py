@@ -1,7 +1,6 @@
-x = 0
+number = 0
 
 try:
-    print(23/x)
-
+    print(20/number)
 except ZeroDivisionError as zde:
     print(zde)
